@@ -1,0 +1,9 @@
+
+ordem de prioridade
+
+
+seleciona o item da coluna -> agrupa -> agregação
+
+agrupo -> escolhe a coluna - > agregação 
+
+
